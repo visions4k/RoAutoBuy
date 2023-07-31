@@ -1,0 +1,39 @@
+{
+  "guild_id": 1083719399883673672,
+  "purchase_channel_id": 1111087567652270220,
+  "admin_role": 1083749915500494858,
+  "logs_channel_id": 1121268328216932352,
+  "package_roles": {
+    "package1": {
+      "name": "vip",
+      "value": "11928851987",
+      "role_id": "1113434515164110989",
+      "url": "https://www.roblox.com/catalog/11928851987/Stewie"
+    },
+    "package2": {
+      "name": "premium",
+      "value": "11928838712",
+      "role_id": "1111943322458665003",
+      "url": "https://www.roblox.com/catalog/11928838712/Super-Sayen-Pants "
+    },
+	  "package3": {
+      "name": "rich",
+      "value": "6241956113",
+      "role_id": "1118219961580670997",
+      "url": "https://www.roblox.com/catalog/6241956113/Bacony-raimbow"
+    },
+    "package4": {
+      "name": "paid tools",
+      "value": "11928832025",
+      "role_id": "1119645008568516638",
+      "url": "https://www.roblox.com/catalog/11928832025/Super-Seijin-Top"
+    },
+    "package5": {
+      "name": "bulk",
+      "value": "8484944237",
+      "role_id": "1117084943940595733",
+      "url": "https://www.roblox.com/catalog/8484944237/Blue-And-Black "
+    }
+  },
+  "roblox_cookie": "cookie must have configure items permissions in group"
+}
